@@ -27,3 +27,17 @@ devtools::install_github("krlmlr/ulimit")
 ulimit::memory_limit(320000000000)
 
 Note: The limit exemplified is the limit of my personal laptop, you will have to tailor it to your own laptop.
+
+# R packages
+- Seurat
+- ggplot2
+- RColorBrewer
+- org.Hseg.db
+- clusterProfiler
+- SingleR
+- reshape2
+- tidyr
+- dplyr
+
+# input files
+Please download the files from https://we.tl/t-HpqnzduyOn
